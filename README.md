@@ -1,6 +1,7 @@
 # my-journey-developer
 This is a log of my journey as a developer
 
+
 ## Markup
 - html (in use)
 - jade (depreciated)
@@ -36,4 +37,15 @@ Framework
 - vitejs (in use)
 - postcss (in use)
 
+## Shell
+- bash (depreciated)
+- zsh (changeover)
+- fish (learning)
+
 ## workflow
+
+## SO
+- windows (depreciated)
+- macOS (depreciated)
+- Ubuntu (block)
+- Fedora (in use)
