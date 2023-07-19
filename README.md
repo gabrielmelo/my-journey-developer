@@ -3,20 +3,20 @@ This is a log of my journey as a developer
 
 
 ## Markup
-- html (in use)
-- jade (depreciated)
+- HTML (in use)
+- Jade (depreciated)
 
 ## Stylesheet
-- css (in use)
+- CSS (in use)
 
 CSS Preprocessors
-- less (depreciated)
-- sass (depreciated)
+- Less (depreciated)
+- Sass (depreciated)
 
 Framework
-- bootstrap (depreciated)
-- bulma (depreciated)
-- tailwindcss (in use)
+- Bootstrap (depreciated)
+- Bulma (depreciated)
+- Tailwindcss (in use)
 
 ## JavaScript
 - vanilla (in use)
@@ -32,10 +32,13 @@ Framework
 ## Tasks, tools and bundle
 - grunt.js (depreciated)
 - gulp.js (depreciated)
+- editorconfig
+- eslint
+- prettier
+- postcss (in use)
 - webpack (in use)
 - parcel (in use)
 - vitejs (in use)
-- postcss (in use)
 
 ## Shell
 - bash (depreciated)
