@@ -20,11 +20,12 @@ Framework
 
 ## JavaScript
 - vanilla (in use)
+- react (in use | learning)
 - typescript (in use)
 - web-components (in use)
 
 Framework
-- react (in use | learning)
+- nextjs(learning)
 - react native (in use | learning)
 - stenciljs (in use)
 - lit (in use)
@@ -39,6 +40,7 @@ Framework
 - webpack (in use)
 - parcel (in use)
 - vitejs (in use)
+- nx (learning)
 
 ## Shell
 - bash (depreciated)
