@@ -3,20 +3,20 @@ This is a log of my journey as a developer
 
 
 ## Markup
-- HTML (in use)
-- Jade (depreciated)
+- html (in use)
+- jade (depreciated)
 
 ## Stylesheet
-- CSS (in use)
+- css (in use)
 
 CSS Preprocessors
-- Less (depreciated)
-- Sass (depreciated)
+- less (depreciated)
+- sass (depreciated)
 
 Framework
-- Bootstrap (depreciated)
-- Bulma (depreciated)
-- Tailwindcss (in use)
+- bootstrap (depreciated)
+- bulma (depreciated)
+- tailwindcss (in use)
 
 ## JavaScript
 - vanilla (in use)
